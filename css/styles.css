@@ -738,7 +738,7 @@ a{
 .images{
     z-index: 1;
     position: relative;
-    /* overflow: hidden; */
+    overflow: hidden;
     height: 294px;
 }
 .label{
