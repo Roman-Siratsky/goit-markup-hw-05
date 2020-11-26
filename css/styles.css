@@ -751,11 +751,11 @@ a{
     justify-content: center;
     align-items: center;
     transition: var(--main-transition);
-    transform: translateY(+70px);
+    /* transform: translateY(+70px); */
 }
-.images:hover .label{
+/* .images:hover .label{
     transform: translateY(0px);
-}
+} */
 .label-text{
     font-family: var(--main-font);
     font-weight: bold;
